@@ -1,4 +1,4 @@
-name: scrape NY DOL
+name: Census indicator scraper
 
 on: [push]
     # schedule:
